@@ -1,0 +1,4 @@
+prototype: statement
+source: v2-front@825aa7f852b5b5b6518913336af2dea782bee39f on prototypes
+built: 2026-04-30T14:06:04Z
+by: andriiparkhomchuk
