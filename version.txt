@@ -1,0 +1,4 @@
+prototype: settings
+source: v2-front@67e99d914 on prototype/settings
+built: 2026-05-06T14:50:12Z
+by: AlinaShamina
